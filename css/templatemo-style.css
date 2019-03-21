@@ -54,7 +54,7 @@ h2 { font-size: 2.2rem; }
 .tm-site-name {
 	color: #cc9900;
 	display: block;
-	font-size: 2.6rem;
+	font-size: 2.0rem;
 	font-weight: 400;
 }
 
@@ -96,7 +96,7 @@ h2 { font-size: 2.2rem; }
 .tm-about-img-container,
 .tm-blog-img-container,
 .tm-contact-img-container {
-	background-size: auto;
+	background-size: auto 200px;
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 200px;
