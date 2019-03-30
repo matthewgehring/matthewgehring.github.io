@@ -487,3 +487,50 @@ p { line-height: 1.9; }
 	padding: 5px;
 	border-radius: 25px;
 }
+
+.contact-container{
+	margin: auto;
+	width: 50%;
+
+}
+
+.aboutdog{
+	display: block;
+  width: 100%;
+  height: auto;
+	padding: 5px;
+	border-radius: 25px;
+}
+
+.aboutvan{
+}
+
+.grid-container{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: wrap;
+	align-items: center;
+	align-content: stretch;
+
+}
+
+.grid-container-1{
+	align-self: auto;
+}
+
+.grid-container-2{
+	align-self: auto;
+}
+
+.grid-item-1{
+	order: 1;
+}
+
+.grid-item-2{
+	order: 2;
+}
+
+.grid-item-3{
+	order: 3;
+}
